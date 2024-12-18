@@ -1,4 +1,4 @@
-name: Greetings
+name: Greetings from github actions
 
 on: [pull_request_target, issues]
 
